@@ -1,4 +1,4 @@
-package com.week2.freeword;
+package com.week3.freeword;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

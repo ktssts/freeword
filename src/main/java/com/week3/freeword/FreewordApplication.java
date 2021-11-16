@@ -1,4 +1,4 @@
-package com.week2.freeword;
+package com.week3.freeword;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
